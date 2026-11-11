@@ -1,4 +1,4 @@
-package org.simas.entity;
+package org.simas.model;
 
 import jakarta.persistence.*;
 
